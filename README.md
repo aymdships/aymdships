@@ -12,7 +12,7 @@
 
 <p align="center">
 	<a href="https://ahmad-portfolio-ten.vercel.app">Portfolio</a> &nbsp;·&nbsp;
-	<a href="https://linkedin.com/in/ahmed-majid-b7a947310">LinkedIn</a> &nbsp;·&nbsp;
+	<a href="https://linkedin.com/in/aymdships">LinkedIn</a> &nbsp;·&nbsp;
 	<a href="https://ahmad-portfolio-ten.vercel.app/Ahmed_Majid_Resume_Automation.pdf">Resume</a> &nbsp;·&nbsp;
 	<a href="mailto:ahmedmajid9212@gmail.com">Email</a>
 </p>
